@@ -1,6 +1,6 @@
 # phonebook
 
-A new Flutter application.
+A new Flutter application. Some basics of flutter by doing phone book application.
 
 ## Getting Started
 
